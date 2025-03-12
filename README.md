@@ -1,0 +1,1 @@
+# TRUSTCO-SOLO
