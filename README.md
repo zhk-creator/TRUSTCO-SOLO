@@ -1,12 +1,7 @@
-
-
-
-.hero-section {
-background-image:..;
-background-size:cover;
-}
-.hero-section-img {
-width:100vw;
-height:100vh;
-margin:40px;
-padding:15px;
+<section class="hero-section">
+    <div class="container">
+        <h1 class="hero-title">Welcome to TRUSTCO-SOLO</h1>
+        <p class="hero-subtitle">Your trusted partner in technology solutions.</p>
+        <a href="#services" class="hero-btn">Explore Services</a>
+    </div>
+</section>
